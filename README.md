@@ -61,9 +61,5 @@ Based on the observations, it was recommended that:
 7.	Oluwaseun  Adepegba - seun.adepegba@gmail.com 
 8.	Nike Ehinloju – nikeehinloju@gmail.com 
 
-# Contributors:
-1.	Popoola Isiaka Olamilekan 
-2.	Kosisochukwu Akaeze
-
 # Author and Team Lead
 POPOOLA, Isiaka Olamilekan
