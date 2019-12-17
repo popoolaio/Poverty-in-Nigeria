@@ -40,7 +40,7 @@ The insights from the project shown that:
 9.	majority of respondents, with the exception of those in monthly salary ranges of N(10,000:00 – 20,000), N(5,000:00 – 10,000) and below N5,000:00, are tax payers
 10.	130(43.0%) of respondents have strong desires to have their own companies.
 11.	224(74.0%) of respondents strongly believe in the turn-around of the country in the nearest future.
-12.	Majority of the respondents had negative perceptions on the government functionaries as some of these personalities were described as greedy, heartless, disrespectful to the rule of law, nepotic, directionless, unpatriotic, manipulative, looters, and indifferent to the yawning and aspirations of Nigerians.
+12.	Majority of the respondents had negative perceptions on the government functionaries as some of these personalities were described as greedy, heartless, disrespectful to the rule of law, nepotic, unpatriotic, manipulative, looters, and indifferent to the yawning and aspirations of Nigerians.
  
 # Recommendations
 Based on the observations, it was recommended that:
