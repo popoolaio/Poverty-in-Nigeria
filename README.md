@@ -52,8 +52,8 @@ Based on the observations, it was recommended that:
 6.	Nigerians spend most of their incomes on feeding, transportation and house rents. All these and many more social services should be subsidized by the government in order to lessen their costs on the residents.
 
 # Team Members:
-1.	Popoola Isiaka Olamilekan (popoolaio@gmail.com 
-2.	Kosisochukwu Akaeze  - kossyfab@gmail.com)
+1.	Popoola Isiaka Olamilekan - popoolaio@gmail.com 
+2.	Kosisochukwu Akaeze  - kossyfab@gmail.com
 3.	Henry Adeyemi - deyemihenry11@gmail.com 
 4.	Temitayo Olanrewaju - olanrewaju1temitayo@gmail.com
 5.	Saheed Adetomiwa - adetomiwasaheed1436@gmail.com
